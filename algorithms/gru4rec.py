@@ -15,7 +15,7 @@ class GRU4Rec:
         """Train the GRU4Rec model."""
         # Placeholder for GRU4Rec code
         pass
-
+testtststt
     def predict(self, user_id, item_id):
         """Predict rating for a user-item pair."""
         # Placeholder for prediction logic
